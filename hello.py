@@ -1,3 +1,6 @@
-#thos os python filefor hello
+
+#we kept both files by removieng adders
 import panda as pd
 import numpy as nm
+
+print("helllo world")
